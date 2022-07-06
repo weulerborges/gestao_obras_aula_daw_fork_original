@@ -8,7 +8,7 @@ https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/documentos/do
 Com a mudança agora - Novo link:
 - [Roteiro](https://github.com/weulerborges/gestao_obras_aula_daw_fork_original/blob/documentos/documentos/README.md)
 - [Roteiro](https://github.com/weulerborges/gestao_obras_aula_daw_fork_original/blob/documentos/documentos/aula05.md)
-https://github.com/weulerborges/gestao_obras_aula_daw_fork_original/blob/documentos/documentos/aula06.md
+- https://github.com/weulerborges/gestao_obras_aula_daw_fork_original/blob/documentos/documentos/aula06.md
 https://github.com/weulerborges/gestao_obras_aula_daw_fork_original/blob/documentos/documentos/aula07.md
 https://github.com/weulerborges/gestao_obras_aula_daw_fork_original/blob/documentos/documentos/aula08.md
 https://github.com/weulerborges/gestao_obras_aula_daw_fork_original/blob/documentos/documentos/aula09.md
