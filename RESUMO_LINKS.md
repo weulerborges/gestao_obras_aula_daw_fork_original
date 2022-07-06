@@ -1,7 +1,9 @@
+Este "fork" foi criado para a finalidade de estudos.
+
 weulerborges/gestao_obras_aula_daw_fork_original
 
 
-Os Links anteriores inicialmente apontavam para:
+Documento original, o qual apontava os Links:
 https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/documentos/documentos/aula05.md
 
 
