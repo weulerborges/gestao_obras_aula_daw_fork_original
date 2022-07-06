@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "net.ufjnet.gestaoobra.config.FileStorageConfig",
+      "sourceType": "net.ufjnet.gestaoobra.config.FileStorageConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "sourceType": "net.ufjnet.gestaoobra.config.FileStorageConfig"
+    }
+  ],
+  "hints": []
+}

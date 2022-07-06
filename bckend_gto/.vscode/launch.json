@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BckendGtoApplication<bckend_gto>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "net.ufjnet.gestaoobra.BckendGtoApplication",
+            "projectName": "bckend_gto",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
