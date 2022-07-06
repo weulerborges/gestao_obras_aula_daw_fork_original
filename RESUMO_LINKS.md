@@ -3,7 +3,7 @@
 - weulerborges/gestao_obras_aula_daw_fork_original
 
 
-- [Documento original, o qual apontava os Links:](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/documentos/documentos/aula05.md)
+- [Link do projeto original, o qual apontava os Links:](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/documentos/documentos/aula05.md)
 
 
 Com a mudança agora - Novo link:
